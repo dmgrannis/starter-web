@@ -12,6 +12,7 @@ testing
 
 ## How to contribute
 
+Fork repo and issue pull request
 
 ### Copyright
 
