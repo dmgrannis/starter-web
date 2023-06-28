@@ -17,4 +17,4 @@ Fork repo and issue pull request
 
 ### Copyright
 
-2023 Dillon
+2023 Dillon. All rights reserved
